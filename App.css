@@ -1,0 +1,25 @@
+.App-header {
+ font-weight: bold;
+ text-align: center;
+ font-size: 1;
+}
+
+.Counter-Div {
+  text-align: center;
+  border: 1px black;
+  height: 300;
+  width: 300;
+}
+.Counter-Buttons {
+  height: 150;
+  width: 150;
+}
+.Increment {
+  font-weight: bold;
+  font-size: larger;
+}
+.Decrement {
+  font-weight: bold;
+  font-size: larger;
+}
+
